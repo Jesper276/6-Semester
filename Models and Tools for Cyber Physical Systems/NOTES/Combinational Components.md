@@ -1,0 +1,2 @@
+- When there are no state variables, there is no initialization, and the reaction description assigns values to the output variables in terms of values of the input variables.
+- Components such as Comparator without any state variables are called combinational
