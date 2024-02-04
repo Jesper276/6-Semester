@@ -11,8 +11,9 @@
 	- It assigns values to variables in the write-set given the values of variables in the read set
 - ## Deterministic Tasks
 - ## Input-Enabled Tasks
-# Composing Components
-## [[Block Diagrams]]
+# [[Block Diagrams]]
 - Instantiation
-- Parallel Composition
-- Output Hiding
+- [[Parallel Composition]]
+- [[Output Hiding]]
+# [[Synchronous Designs]]
+- Synchronous Circuits

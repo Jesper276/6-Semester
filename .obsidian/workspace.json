@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Models and Tools for Cyber Physical Systems/NOTES/Nondeterministic Components.md",
+                "file": "Models and Tools for Cyber Physical Systems/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7ec2af2edb29adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projekt forslag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fa259463b160592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projekt forslag.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +54,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c29d57ce26f1cda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Models and Tools for Cyber Physical Systems/NOTES/Output Hiding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac010f832188fd4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Models and Tools for Cyber Physical Systems/NOTES/Block Diagrams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efcb34986486c5e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Models and Tools for Cyber Physical Systems/NOTES/Block Diagrams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Models and Tools for Cyber Physical Systems/NOTES/Block Diagrams.md",
+                "file": "projekt forslag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Models and Tools for Cyber Physical Systems/NOTES/Block Diagrams.md",
+                "file": "projekt forslag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Models and Tools for Cyber Physical Systems/NOTES/Block Diagrams.md"
+                "file": "projekt forslag.md"
               }
             }
           }
@@ -159,25 +219,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "849268f87ec83b5d",
+  "active": "3fa259463b160592",
   "lastOpenFiles": [
+    "Pictures/Pasted image 20240130165541.png",
+    "projekt forslag.md",
+    "Pictures",
     "Models and Tools for Cyber Physical Systems/Lecture 1.md",
-    "Models and Tools for Cyber Physical Systems/NOTES/Nondeterministic Components.md",
     "Models and Tools for Cyber Physical Systems/NOTES/Block Diagrams.md",
-    "Models and Tools for Cyber Physical Systems/NOTES/Combinational Components.md",
-    "Pasted image 20240130165541.png",
-    "Models and Tools for Cyber Physical Systems/NOTES/Variables, Valuations, and Expressions.md",
+    "Models and Tools for Cyber Physical Systems/NOTES/Output Hiding.md",
+    "Models and Tools for Cyber Physical Systems/NOTES/Parallel Composition.md",
+    "Models and Tools for Cyber Physical Systems/NOTES/Synchronous Designs.md",
     "Models and Tools for Cyber Physical Systems/NOTES/Task Graphs and Await Dependencies.md",
+    "Models and Tools for Cyber Physical Systems/NOTES/Nondeterministic Components.md",
+    "Models and Tools for Cyber Physical Systems/NOTES/Combinational Components.md",
+    "Models and Tools for Cyber Physical Systems/NOTES/Variables, Valuations, and Expressions.md",
     "Update.md",
-    "Pasted image 20240130164241.png",
+    "Pictures/Pasted image 20240130164241.png",
     "Models and Tools for Cyber Physical Systems/NOTES/Input-Enabled Components.md",
-    "Pasted image 20240130160757.png",
-    "Pasted image 20240130154815.png",
+    "Pictures/Pasted image 20240130160757.png",
+    "Pictures/Pasted image 20240130154815.png",
     "Models and Tools for Cyber Physical Systems/NOTES/Reactive Components.md",
     "Models and Tools for Cyber Physical Systems/NOTES/Extended-State Machines.md",
     "Models and Tools for Cyber Physical Systems/NOTES/Event-Triggered Components.md",
-    "Pasted image 20240130153921.png",
-    "Pasted image 20240130142601.png",
+    "Pictures/Pasted image 20240130153921.png",
+    "Pictures/Pasted image 20240130142601.png",
     "Models and Tools for Cyber Physical Systems/NOTES/Inputs, Outputs, and States.md",
     "Models and Tools for Cyber Physical Systems/NOTES",
     "Welcome.md",
