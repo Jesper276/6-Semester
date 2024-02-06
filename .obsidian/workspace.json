@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AC/NOTES/Nondeterminism.md",
+                "file": "AC/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05e08b9fba3148aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Models and Tools for Cyber Physical Systems/NOTES/TURING MACHINES.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AC/NOTES/Nondeterminism.md",
+                "file": "Models and Tools for Cyber Physical Systems/NOTES/TURING MACHINES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AC/NOTES/Nondeterminism.md",
+                "file": "Models and Tools for Cyber Physical Systems/NOTES/TURING MACHINES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AC/NOTES/Nondeterminism.md"
+                "file": "Models and Tools for Cyber Physical Systems/NOTES/TURING MACHINES.md"
               }
             }
           }
@@ -146,14 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb652cdec17c71af",
+  "active": "05e08b9fba3148aa",
   "lastOpenFiles": [
-    "Pasted image 20240206105021.png",
-    "AC/NOTES/Finite Automata.md",
+    "Pasted image 20240206112552.png",
+    "Pasted image 20240206112349.png",
+    "Pasted image 20240206111739.png",
+    "Pasted image 20240206110600.png",
     "AC/Lecture 1.md",
+    "Models and Tools for Cyber Physical Systems/NOTES/TURING MACHINES.md",
+    "AC/NOTES/Finite Automata.md",
     "AC/NOTES/Mathematical Notions and Terminology.md",
-    "AC/NOTES/Untitled.md",
     "AC/NOTES/Nondeterminism.md",
+    "Pasted image 20240206105021.png",
+    "AC/NOTES/Untitled.md",
     "AC/NOTES",
     "Models and Tools for Cyber Physical Systems/Lecture 1.md",
     "projekt forslag.md",
