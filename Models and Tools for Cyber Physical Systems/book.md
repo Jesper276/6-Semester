@@ -1,4 +1,4 @@
-## Reactive Components
+# Reactive Components
 [[Variables, Valuations, and Expressions]]
 [[Extended-State Machines]]
 [[Combinational Components]]
@@ -16,4 +16,20 @@
 - [[Parallel Composition]]
 - [[Output Hiding]]
 # [[Synchronous Designs]]
-- Synchronous Circuits
+- [[Synchronous Circuits]]
+
+# Safety Requirements
+**Two broad categories:**
+- safety requirements assert that “nothing bad ever happens,” 
+- liveness requirements assert that “something
+good eventually happens.”
+## Safety Specifications
+### [[Transition Systems]]
+
+
+# [[Asynchronous Model]]
+## [[Asynchronous Processes]]
+
+## [[Asynchronous Design Primitives]]
+[[Blocking]] vs. [[Non-blocking Synchronization]]
+[[Deadlocks]]

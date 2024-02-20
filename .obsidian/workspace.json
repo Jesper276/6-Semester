@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb652cdec17c71af",
+            "id": "05e08b9fba3148aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AC/Lecture 1.md",
+                "file": "Models and Tools for Cyber Physical Systems/NOTES/Extended-State Machines.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "05e08b9fba3148aa",
+            "id": "217b833398bf6f96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Models and Tools for Cyber Physical Systems/NOTES/TURING MACHINES.md",
+                "file": "Models and Tools for Cyber Physical Systems/NOTES/Variables, Valuations, and Expressions.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Models and Tools for Cyber Physical Systems/NOTES/TURING MACHINES.md",
+                "file": "Models and Tools for Cyber Physical Systems/NOTES/Variables, Valuations, and Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Models and Tools for Cyber Physical Systems/NOTES/TURING MACHINES.md",
+                "file": "Models and Tools for Cyber Physical Systems/NOTES/Variables, Valuations, and Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Models and Tools for Cyber Physical Systems/NOTES/TURING MACHINES.md"
+                "file": "Models and Tools for Cyber Physical Systems/NOTES/Variables, Valuations, and Expressions.md"
               }
             }
           }
@@ -156,24 +156,34 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05e08b9fba3148aa",
+  "active": "217b833398bf6f96",
   "lastOpenFiles": [
-    "Pasted image 20240206112552.png",
-    "Pasted image 20240206112349.png",
-    "Pasted image 20240206111739.png",
-    "Pasted image 20240206110600.png",
+    "Models and Tools for Cyber Physical Systems/NOTES/Extended-State Machines.md",
+    "Models and Tools for Cyber Physical Systems/book.md",
+    "Models and Tools for Cyber Physical Systems/NOTES/Variables, Valuations, and Expressions.md",
+    "Models and Tools for Cyber Physical Systems/NOTES/Transition Systems.md",
+    "Pasted image 20240207093342.png",
+    "Models and Tools for Cyber Physical Systems/NOTES/Synchronous Circuits.md",
+    "Pasted image 20240207085159.png",
     "AC/Lecture 1.md",
+    "Models and Tools for Cyber Physical Systems/NOTES/Deadlocks.md",
     "Models and Tools for Cyber Physical Systems/NOTES/TURING MACHINES.md",
+    "AC/forelæsning/forelæsning 1.md",
+    "AC/forelæsning",
+    "Pictures/Pasted image 20240206112552.png",
+    "Pictures/Pasted image 20240206112349.png",
+    "Pictures/Pasted image 20240206111739.png",
+    "Pictures/Pasted image 20240206110600.png",
     "AC/NOTES/Finite Automata.md",
     "AC/NOTES/Mathematical Notions and Terminology.md",
     "AC/NOTES/Nondeterminism.md",
-    "Pasted image 20240206105021.png",
+    "Pictures/Pasted image 20240206105021.png",
     "AC/NOTES/Untitled.md",
     "AC/NOTES",
-    "Models and Tools for Cyber Physical Systems/Lecture 1.md",
     "projekt forslag.md",
     "AC",
     "Pictures/Pasted image 20240130165541.png",
@@ -185,20 +195,13 @@
     "Models and Tools for Cyber Physical Systems/NOTES/Task Graphs and Await Dependencies.md",
     "Models and Tools for Cyber Physical Systems/NOTES/Nondeterministic Components.md",
     "Models and Tools for Cyber Physical Systems/NOTES/Combinational Components.md",
-    "Models and Tools for Cyber Physical Systems/NOTES/Variables, Valuations, and Expressions.md",
     "Update.md",
     "Pictures/Pasted image 20240130164241.png",
     "Models and Tools for Cyber Physical Systems/NOTES/Input-Enabled Components.md",
     "Pictures/Pasted image 20240130160757.png",
-    "Pictures/Pasted image 20240130154815.png",
     "Models and Tools for Cyber Physical Systems/NOTES/Reactive Components.md",
-    "Models and Tools for Cyber Physical Systems/NOTES/Extended-State Machines.md",
     "Models and Tools for Cyber Physical Systems/NOTES/Event-Triggered Components.md",
-    "Pictures/Pasted image 20240130153921.png",
-    "Pictures/Pasted image 20240130142601.png",
-    "Models and Tools for Cyber Physical Systems/NOTES/Inputs, Outputs, and States.md",
     "Models and Tools for Cyber Physical Systems/NOTES",
-    "Welcome.md",
     "Models and Tools for Cyber Physical Systems"
   ]
 }

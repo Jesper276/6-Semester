@@ -3,7 +3,7 @@
 3. The tape is infinite.
 4. The special states for rejecting and accepting take effect immediately.
 
-## FORMAL DEFINITION OF A TURING MACHINE
+# FORMAL DEFINITION OF A TURING MACHINE
 - The heart of the definition of a Turing machine is the transition function δ because it tells us how the machine gets from one step to the next.
 - For a Turing machine, δ takes the form: $Q×Γ → Q×Γ×{L, R}$
 - That is, when the machine is in a certain state q and the head is over a tape square containing a symbol a, and if $δ(q, a) = (r, b,L)$ the machine writes the symbol b replacing the a
@@ -13,26 +13,26 @@ A Turing machine M computes as follows.
 1. Initially, M receives its input $w = w1w2 . . . wn ∈ Σ^∗$ on the leftmost n squares of the tape, and the rest of the tape is blank (i.e., filled with blank symbols).
 2. The head starts on the leftmost square of the tape
 - Note that Σ does not contain the blank symbol, so the first blank appearing on the tape marks the end of the input.
-3. Once M has started, the computation proceeds according to the rules described by the transition function. If M ever tries to move its head to the left off the left-hand end of the tape, the head stays in the same place for that move, even though the transition function indicates L
-4. The computation continues until it enters either the accept or reject states, at which point it halts. If neither occurs, M goes on forever.
+1. Once M has started, the computation proceeds according to the rules described by the transition function. If M ever tries to move its head to the left off the left-hand end of the tape, the head stays in the same place for that move, even though the transition function indicates L
+2. The computation continues until it enters either the accept or reject states, at which point it halts. If neither occurs, M goes on forever.
 As a Turing machine computes, changes occur in the **current state**, **the current tape contents**, and **the current head location**. A setting of these three items is called a **configuration of the Turing machine**.
 For a **state q** and **two strings u and v** over the tape **alphabet Γ**:
 - we write $u q v$
 - for the configuration where the current state is q
 -  The current tape contents is uv
 - And the current head location is the first symbol of v
-### Example:
+## Example:
 1011q701111
 represents the configuration when the tape is 101101111
 The current state is q7, and the head is currently on the second 0
 
-### Accept, reject and loop
+## Accept, reject and loop
 When we start a Turing machine on an input, three outcomes are possible. The machine may *accept, reject, or loop*.
 - In an accepting configuration, the state of the configuration is $q_{accept}$.
 - In a rejecting configuration, the state of the configuration is $q_{reject}$
 - loop we mean that the machine simply does not halt. Looping may entail any simple or complex behavior that never leads to a halting state.
 
-## EXAMPLES OF TURING MACHINES
+# EXAMPLES OF TURING MACHINES
 ![[Pasted image 20240206111739.png]]
 
 Each iteration of stage 1 cuts the number of 0s in half. As the machine sweeps across the tape in stage 1, it keeps track of whether the number of 0s seen is even or odd. If that number is odd and greater than 1, the original number of 0s in the input could not have been a power of 2. Therefore, the machine rejects in this instance. However, if the number of 0s seen is 1, the original number must have been a power of 2. So in this case, the machine accepts. Now we give the formal description of $M2 = (Q, Σ, Γ, δ, q1, q_{accept}, q_{reject})$:

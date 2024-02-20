@@ -3,5 +3,5 @@
 [[Finite Automata]]
 [[Nondeterminism]]
 
-# Lecture 1
+## Lecture 1
 [[TURING MACHINES]]
