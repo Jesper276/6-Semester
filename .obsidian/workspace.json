@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Models and Tools for Cyber Physical Systems/NOTES/Variables, Valuations, and Expressions.md",
+                "file": "AC/Self study 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b74e0f2a16e74d26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Models and Tools for Cyber Physical Systems/forelæsning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13c51e7199668f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "safety and livenes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Models and Tools for Cyber Physical Systems/NOTES/Variables, Valuations, and Expressions.md",
+                "file": "AC/Self study 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Models and Tools for Cyber Physical Systems/NOTES/Variables, Valuations, and Expressions.md",
+                "file": "AC/Self study 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Models and Tools for Cyber Physical Systems/NOTES/Variables, Valuations, and Expressions.md"
+                "file": "AC/Self study 1.md"
               }
             }
           }
@@ -162,9 +186,16 @@
   },
   "active": "217b833398bf6f96",
   "lastOpenFiles": [
-    "Models and Tools for Cyber Physical Systems/NOTES/Extended-State Machines.md",
+    "Models and Tools for Cyber Physical Systems/NOTES/nummer 3.md",
+    "AC/Self study 1.md",
+    "Pasted image 20240221083950.png",
+    "safety and livenes.md",
+    "Models and Tools for Cyber Physical Systems/forelæsning.md",
+    "Pasted image 20240221081759.png",
+    "Pasted image 20240221081738.png",
     "Models and Tools for Cyber Physical Systems/book.md",
     "Models and Tools for Cyber Physical Systems/NOTES/Variables, Valuations, and Expressions.md",
+    "Models and Tools for Cyber Physical Systems/NOTES/Extended-State Machines.md",
     "Models and Tools for Cyber Physical Systems/NOTES/Transition Systems.md",
     "Pasted image 20240207093342.png",
     "Models and Tools for Cyber Physical Systems/NOTES/Synchronous Circuits.md",
@@ -186,7 +217,6 @@
     "AC/NOTES",
     "projekt forslag.md",
     "AC",
-    "Pictures/Pasted image 20240130165541.png",
     "Pictures",
     "Models and Tools for Cyber Physical Systems/NOTES/Block Diagrams.md",
     "Models and Tools for Cyber Physical Systems/NOTES/Output Hiding.md",
@@ -196,11 +226,6 @@
     "Models and Tools for Cyber Physical Systems/NOTES/Nondeterministic Components.md",
     "Models and Tools for Cyber Physical Systems/NOTES/Combinational Components.md",
     "Update.md",
-    "Pictures/Pasted image 20240130164241.png",
-    "Models and Tools for Cyber Physical Systems/NOTES/Input-Enabled Components.md",
-    "Pictures/Pasted image 20240130160757.png",
-    "Models and Tools for Cyber Physical Systems/NOTES/Reactive Components.md",
-    "Models and Tools for Cyber Physical Systems/NOTES/Event-Triggered Components.md",
     "Models and Tools for Cyber Physical Systems/NOTES",
     "Models and Tools for Cyber Physical Systems"
   ]
